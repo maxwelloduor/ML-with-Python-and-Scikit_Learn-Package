@@ -1,12 +1,13 @@
 ## Clustering Analysis of Mall Customer
 
-Using python, Numpy, Panda, Matplotlib, Seaborn, scikit-learn, and after some data exploratory analysis, I will deploy three different clustering algorithms and visualize the results:
+Using Python, Numpy, Panda, Matplotlib, Seaborn, SciKit-learn, and after some data exploratory analysis, I will deploy three different clustering algorithms and visualize the results:
 
-1- DBSCAN to do Density-based clustering and Matplotlib to plot clusters
+**1- K-Means clustering, complemented by the elbow method and silhouette score, alongside 2D and 3D visualizations of clusters**
 
-2- Hierarchical clustering and create dendrograms to visualize the clustering
+**2- DBSCAN to do Density-based clustering and Matplotlib to plot clusters**
 
-3- K-Means clustering 
+**3- Hierarchical clustering and creating dendrograms to visualize the clustering**
+
 
 
 Clustering is the task of dividing the population or data points into several groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects based on similarity and dissimilarity between them.
