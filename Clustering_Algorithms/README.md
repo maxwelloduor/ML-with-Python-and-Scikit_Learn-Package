@@ -24,4 +24,5 @@ Image segmentation
 Anomaly detection, etc.
 
 Dataset:
+
 This Dataset is based on malls' customers. There are a total of 200 rows and 5 columns in this dataset. By using this dataset this data analysis and machine learning project is created.
