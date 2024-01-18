@@ -3,7 +3,9 @@
 Using python, Numpy, Panda, Matplotlib, Seaborn, scikit-learn, and after some data exploratory analysis, I will deploy three different clustering algorithms and visualize the results:
 
 1- DBSCAN to do Density-based clustering and Matplotlib to plot clusters
+
 2- Hierarchical clustering and create dendrograms to visualize the clustering
+
 3- K-Means clustering 
 
 
